@@ -1,4 +1,4 @@
-# Josh Mayer's Social Media DALI Chanllenge
+# Josh Mayer's Social Media DALI Challenge
 
 Demo [here](https://dalisocialmedia.vercel.app).
 
